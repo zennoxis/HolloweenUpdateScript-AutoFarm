@@ -1,1 +1,0 @@
-# HolloweenUpdateScript-AutoFarm
